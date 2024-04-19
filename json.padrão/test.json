@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Tome",
+        "idade": 39,
+        "esta_trabalhando": true,
+        "detalhes_profissão": {
+            "profissão": "Programador",
+            "empresa": "Next Devices"
+        },
+        "hobbies": ["Programar", "Ler", "Jogar"]
+    }
+]
